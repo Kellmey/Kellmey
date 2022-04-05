@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kellmey
 - 👀 I’m interested in Software Development (java) and Web Development (Html,Javascript,Css,PHP).
-- 🌱 I recently completed a 3 year diploma in Systems Development.
+- 🌱 I  completed a 3 year Diploma in Systems Development NQF6 (Cum Laude).
 - 💞️ I’m looking to collaborate on designing new web pages and java programs.
 - 📫 How to reach me kellymeyer833@gmail.com
 
